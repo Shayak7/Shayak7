@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shayak Halder (@Shayak7).
-- 👀 I’m interested in the fascinating world of machine learning, data analysis, and artificial intelligence.
+- 👀 I’m interested in the fascinating world of machine learning, data analysis, and AI.
 - 🌱 I’m currently honing my skills in various machine learning frameworks and exploring cutting-edge data science techniques.
 - 💞️ I’m eager to collaborate on innovative projects that leverage data to drive insights and solve real-world challenges.
 - 🎓 Education:
